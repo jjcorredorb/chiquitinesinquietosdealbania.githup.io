@@ -1,0 +1,19 @@
+﻿body {text-align: center;background-color: #0000ff}
+#cabecera {background-color: pink;text-align:center;padding:5px10px5px10px;width:800px} 
+#global{width:800px;margin:4px auto}
+#contenido{background-color:#ffff00;width:800px;float:left}
+*{margin:10px;padding;30px;border:0px}
+p{text-align:justify}
+#contenido p{padding:5px10px5px10px;text-indent:15px}
+#menú{width: 150px;float:left;text-align:left;
+margin: 3px 10px 3px 3px}
+#menu li{list-style:none;margin:4px 0px 4px 6px }
+a{color:blue;text-decoration:none;display:block}
+a:link {}
+a:visited {}
+a:hover {color:red; text-decoration:under line;background-color:silver}
+a:active {}
+h1{font-size:1.1em;color:blue;font-weight:bold;text-decoration:underline
+;text-align-center}
+h2{font.size: 1.1em;color:red;font-weight:bold;text-decoration:none
+;text-align:left}
